@@ -1,3 +1,0 @@
-# .github
-
-OpenDot Software Foundation
